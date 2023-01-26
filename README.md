@@ -17,25 +17,30 @@ Maybe you can mention me or this repo in the acknowledgements too
   
   
 <!-- Badges -->
-<p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
-  </a>
+<div align="center">
+ 
+<a href='https://github.com/chroline/well_app/releases'>
   
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
-  </a>
+<img src='https://img.shields.io/github/v/release/chroline/well_app?color=%23FDD835&label=version&style=for-the-badge'>
   
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
-  </a>
-</p>
+</a>
+  
+<a href='https://github.com/chroline/well_app/blob/main/LICENSE'>
+
+<img src='https://img.shields.io/github/license/chroline/well_app?style=for-the-badge'>
+  
+</a>
+  
+<a href='https://github.com/chroline/well_app/blob/main/LICENSE'>
+
+<img src='https://img.shields.io/badge/-MIT-blue?style=for-the-badge'>
+</a>
+  
+</div>
+  
    
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+    <a href="https://github.com/Louis3797/awesome-readme-template/">Project Overview</a>
   <span> · </span>
     <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
   <span> · </span>
@@ -90,7 +95,9 @@ The Inter-American Development Bank (IDB) believes that new methods beyond tradi
 
 
 <!-- TechStack -->
-### :space_invader: Tech Stack
+# :space_invader: Tech Stack
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 
 <details>
   <summary>Client</summary>
@@ -127,14 +134,7 @@ The Inter-American Development Bank (IDB) believes that new methods beyond tradi
   </ul>
 </details>
 
-<details>
-<summary>DevOps</summary>
-  <ul>
-    <li><a href="https://www.docker.com/">Docker</a></li>
-    <li><a href="https://www.jenkins.io/">Jenkins</a></li>
-    <li><a href="https://circleci.com/">CircleCLI</a></li>
-  </ul>
-</details>
+
 
 <!-- Features -->
 ### :dart: Features
@@ -268,7 +268,7 @@ The population structure of the source data can be also weighted based on who is
 Missing Feature Values
 If your data set has one or more features that have missing values for a large number of examples, that could be an indicator that certain key characteristics of your data set are under-represented.
 
-### :gem: Some suggestions to address bias
+### ✅:gem: Some suggestions to address bias
 Question the preconceptions: A machine learning model learns from historical decisions and their intent, where the intent is known. At every stage of training data preparation, it is important to question where the data is coming from, whose perceptions affected earlier decisions, and what changes need to be made in the data accordingly to clean it for training purposes.
 
 Continuous development / testing:
@@ -289,9 +289,20 @@ An algorithm that works for one set of data will not likely work with an extende
 </a>
 
 
-Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+
+# Contributors ✨
+# Contributing
+<br>
+Contributions are always welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/vieming8"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffeeJohnTan" /></a></p><br><br>
+
+
+<br>
+<a href="https://www.buymeacoffee.com/vieming8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210"></a>
 
 
 <!-- Code of Conduct -->
