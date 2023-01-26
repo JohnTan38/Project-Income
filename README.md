@@ -155,7 +155,7 @@ The Inter-American Development Bank (IDB) believes that new methods beyond tradi
 
 
 <!-- Env Variables -->
-### :key: Environment Variables
+### :key: Environment Libraries
 
 To run this project, you will need to import the following to your .ipynb file
 
@@ -176,19 +176,20 @@ To run this project, you will need to import the following to your .ipynb file
 <!-- Prerequisites -->
 ### :bangbang: Prerequisites
 
-This project uses Yarn as package manager
+This project uses Python 3.9++
 
 ```bash
- npm install --global yarn
+ pip install -U scikit-learn
 ```
 
 <!-- Installation -->
 ### :gear: Installation
 
-Install my-project with npm
+Install my-project
 
 ```bash
-  yarn install my-project
+  pip install pandas
+  pip install numpy
   cd my-project
 ```
    
@@ -313,13 +314,13 @@ Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-te
 <!-- License -->
 ## :warning: License
 
-Distributed under the no License. See LICENSE.txt for more information.
+Distributed under the MIT License. See LICENSE.txt for more information.
 
 
 <!-- Contact -->
 ## :handshake: Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - vieming@gmail.com
 
 Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
 
