@@ -320,18 +320,19 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
-Email - [@twitter_handle](https://twitter.com/twitter_handle) - vieming@gmail.com
+Email ✉️(https://twitter.com/twitter_handle) - vieming@gmail.com
 
-Project Link: [https://github.com/JohnTan38/project-income-qualification.git](https://github.com/JohnTan38/project-income-qualification.git)
+Project Link 🌐 [https://github.com/JohnTan38/project-income-qualification.git](https://github.com/JohnTan38/project-income-qualification.git)
 
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
-Use this section to mention useful resources and libraries that you have used in your projects.
+Useful resources and libraries in project.
 
  - [Shields.io](https://shields.io/)
  - [https://olc.worldbank.org/sites/default/files/1.pdf](https://olc.worldbank.org/sites/default/files/1.pdf)
+ - [https://sohs.alnap.org/system/files/content/resource/files/main/targeting-poorest.pdf](https://sohs.alnap.org/system/files/content/resource/files/main/targeting-poorest.pdf)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template)
 
