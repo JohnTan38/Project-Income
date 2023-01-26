@@ -8,7 +8,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+  <img src="assets/logo.png" alt="logo" width="300" height="160" />
   <h1>Income Qualification Project</h1>
   
   <p>
@@ -143,25 +143,32 @@ The Inter-American Development Bank (IDB) believes that new methods beyond tradi
 - Feature 2
 - Feature 3
 
-<!-- Color Reference -->
-### :art: Color Reference
+<!-- ML Model Reference -->
+### :art: Machine Learning
 
-| Color             | Hex                                                                |
+| ML Tool             | Implementation                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+| Library | Sci-Kit Learn |
+| Classifier | Random Forest Classifier |
+| Hyperparameters Tuning | Grid Search CV |
+| Metrics | Confusion Matrix |
 
 
 <!-- Env Variables -->
 ### :key: Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to import the following to your .ipynb file
 
-`API_KEY`
+`sklearn.ensemble`
 
-`ANOTHER_API_KEY`
+`sklearn.model.selection`
+`sklearn.preprocessing`
+`sklearn.pipiline`
+
+`pandas`
+`numpy`
+`matplotlib.pyplot`
+`seaborn`
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
