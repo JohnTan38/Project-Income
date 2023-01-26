@@ -8,7 +8,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="300" height="160" />
+  <img src="assets/logo.png" alt="logo" width="310" height="260" />
   <h1>Income Qualification Project</h1>
   
   <p>
@@ -207,19 +207,19 @@ To run tests, run the following command
 Clone the project
 
 ```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
+  git clone https://github.com/JohnTan38/project-income-qualification.git
 ```
 
 Go to the project directory
 
-```bash
+```CLI
   cd my-project
 ```
 
-Install dependencies
+Install libraries and dependencies
 
-```bash
-  yarn install
+```CLI
+  pip install -r requirements.txt
 ```
 
 Start the server
@@ -234,8 +234,8 @@ Start the server
 
 To deploy this project run
 
-```bash
-  yarn deploy
+```jupyter notebook / VS Code
+  
 ```
 
 
@@ -245,13 +245,33 @@ To deploy this project run
 Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
 
 
-```javascript
-import Component from 'my-project'
+```Python
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.model_selection import GridSearchCV
 
-function App() {
-  return <Component />
-}
+X_train,X_test,Y_train,Y_test=train_test_split(X_data_1,Y_data,test_size=0.25,stratify=Y_data,random_state=10)
+
+rfc=RandomForestClassifier(random_state=10)
+
+RFC=best_.best_estimator_
+Model=RFC.fit(X_train,Y_train)
+pred=Model.predict(X_test)
 ```
+
+### 🧐 Bias in machine learning datasets
+When collecting data to build a training set for Machine Learning solutions, it is important to understand the breadth and depth of the data available to you.
+In the Duke-Margolis research, they call out that “...there are geographic biases to much of the data used to train AI. If the tools being built are deployed in more rural or varied regional populations, the representation of the data may not overlay in the same way and can lead to unexpected outcomes based on the machine learning biased data sets.
+The population structure of the source data can be also weighted based on who is included or excluded.
+
+Missing Feature Values
+If your data set has one or more features that have missing values for a large number of examples, that could be an indicator that certain key characteristics of your data set are under-represented.
+
+### :gem: Some suggestions to address bias
+Question the preconceptions: A machine learning model learns from historical decisions and their intent, where the intent is known. At every stage of training data preparation, it is important to question where the data is coming from, whose perceptions affected earlier decisions, and what changes need to be made in the data accordingly to clean it for training purposes.
+
+Continuous development / testing:
+An algorithm that works for one set of data will not likely work with an extended version of the same data. It might if we keep testing the system with challenger models and verify its predictive accuracy, transparency, and improvement rate.
 
 <!-- Roadmap -->
 ## :compass: Roadmap
