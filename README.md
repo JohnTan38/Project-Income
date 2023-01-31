@@ -56,11 +56,13 @@ Maybe you can mention me or this repo in the acknowledgements too
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
+  * [Problem Statement](#star2-screenshots)
   * [Screenshots](#camera-screenshots)
   * [Tech Stack](#space_invader-tech-stack)
+  * [Libraries and Tools](#clipboard-screenshots)
   * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
-  * [Environment Variables](#key-environment-variables)
+  * [Machine Learning](#european_castle-features)
+  * [Environment Variables](#slot_machine-environment-variables)
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
