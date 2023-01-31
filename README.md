@@ -233,7 +233,8 @@ Start the server
 
 To deploy this project run
 
-```jupyter notebook / VS Code
+```bash
+  jupyter notebook / VS Code
   
 ```
 
@@ -275,8 +276,8 @@ An algorithm that works for one set of data will not likely work with an extende
 <!-- Roadmap -->
 ## :compass: Roadmap
 
-* [x] Todo 1
-* [ ] Todo 2
+* [x] To conduct further research in Proxy Means Testing using multivariate regression to correlate proxies such as assets and household characteristics with poverty and income
+
 
 
 <!-- Contributing -->
@@ -329,7 +330,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
-Email ✉️(https://twitter.com/twitter_handle) - vieming@gmail.com
+Email ✉️ - vieming@gmail.com
 
 Project Link 🌐 [https://github.com/JohnTan38/project-income-qualification.git](https://github.com/JohnTan38/project-income-qualification.git)
 
