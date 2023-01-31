@@ -99,38 +99,36 @@ The Inter-American Development Bank (IDB) believes that new methods beyond tradi
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 
+# 📔: Libraries and Tools
 <details>
-  <summary>Client</summary>
+  <summary>Data Manipulation</summary>
   <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+    <li><a href="https://pandas.pydata.org/docs//">Pandas</a></li>
+    <li><a href="https://pandas.pydata.org/docs/reference/index.html#api">Pandas API Reference</a></li>
+    <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.crosstab.html">CrossTab</a></li>
+    <li><a href="https://numpy.org/doc/stable/">NumPy</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Machine Learning</summary>
   <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-    <li><a href="https://go.dev/">Golang</a></li>
-    <li><a href="https://nestjs.com/">Nest.js</a></li>
-    <li><a href="https://socket.io/">SocketIO</a></li>
-    <li><a href="https://www.prisma.io/">Prisma</a></li>    
-    <li><a href="https://www.apollographql.com/">Apollo</a></li>
-    <li><a href="https://graphql.org/">GraphQL</a></li>
+    <li><a href="https://scikit-learn.org/stable//">SciKit Learn</a></li>
+    <li><a href="https://scikit-learn.org/stable/supervised_learning.html#supervised-learning">Supervised Learning</a></li>
+    <li><a href="https://scikit-learn.org/stable/model_selection.html#model-selection">Model selection & evaluation</a></li>
+    <li><a href="https://scipy.org/">SciPy</a></li>
+    <li><a href="https://www.statsmodels.org/stable/index.html">statsmodels</a></li>
+    
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary>Visualization</summary>
   <ul>
-    <li><a href="https://www.mysql.com/">MySQL</a></li>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-    <li><a href="https://redis.io/">Redis</a></li>
-    <li><a href="https://neo4j.com/">Neo4j</a></li>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+    <li><a href="https://matplotlib.org/">Matplotlib</a></li>
+    <li><a href="https://seaborn.pydata.org/">Seaborn</a></li>
+    
+    
   </ul>
 </details>
 
