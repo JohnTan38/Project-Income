@@ -221,10 +221,10 @@ Install libraries and dependencies
   pip install -r requirements.txt
 ```
 
-Start the server
+Start Jupyter notebook
 
 ```bash
-  yarn start
+  C:\Users\...\AppData\Local\Programs\Python\Python311\Scripts>jupyter notebook
 ```
 
 
@@ -307,7 +307,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 <!-- Code of Conduct -->
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/JohnTan38/Project-Income-Qualification/blob/add-code-of-conduct-1/CODE_OF_CONDUCT.md)
 
 <!-- FAQ -->
 ## :grey_question: FAQ
