@@ -89,10 +89,22 @@ In Latin America, a popular method called Proxy Means Test (PMT) uses an algorit
 The Inter-American Development Bank (IDB) believes that new methods beyond traditional econometrics, based on a dataset of Costa Rican household characteristics, might help improve PMT's performance.
 
 <!-- Screenshots -->
-### :camera: Screenshots
+### :camera: EDA Plots
+### Households missing Rent Payments
+> ![Missing Rent Payments](https://github.com/JohnTan38/Project-Income-Qualification/blob/main/assets/Miss_RentPayment.PNG?raw=true)
+<br>
+ 'Other' - households that missed rent payments .<br>
 
+### Target vs Total count
+> ![Target vs Total](https://github.com/JohnTan38/Project-Income-Qualification/blob/main/assets/Target_Total.PNG?raw=true)
+<br>
+ 1 - Extreme poverty <br>
+ 2 - Moderate poverty <br>
+ 3 - Vulnerable households <br>
+ 4 - Non-vulnerable households <br>
+<br>
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  
 </div>
 
 
