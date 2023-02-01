@@ -56,10 +56,12 @@ Maybe you can mention me or this repo in the acknowledgements too
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
+  * [Problem Statement](#star2-screenshots)
   * [Screenshots](#camera-screenshots)
   * [Tech Stack](#space_invader-tech-stack)
+  * [Libraries and Tools](#clipboard-libraries)
   * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
+  * [Machine Learning](#european_castle-machine-learning)
   * [Environment Variables](#key-environment-variables)
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
@@ -135,11 +137,11 @@ The Inter-American Development Bank (IDB) believes that new methods beyond tradi
 
 
 <!-- Features -->
-### :dart: Features
+### :dart: ML Pipeline
 
-- Feature 1
-- Feature 2
-- Feature 3
+- EDA and Data Analysis
+- Fitting the model; Hyperparameter Tuning
+- Cross-validation and Model Evaluation
 
 <!-- ML Model Reference -->
 ### :art: Machine Learning
@@ -221,10 +223,10 @@ Install libraries and dependencies
   pip install -r requirements.txt
 ```
 
-Start the server
+Start jupyter notebook
 
 ```bash
-  yarn start
+  C:\Users\...\AppData\Local\Programs\Python\Python311\Scripts>jupyter notebook
 ```
 
 
@@ -275,8 +277,8 @@ An algorithm that works for one set of data will not likely work with an extende
 <!-- Roadmap -->
 ## :compass: Roadmap
 
-* [x] Todo 1
-* [ ] Todo 2
+* [x] To conduct further research in Proxy Means Testing using multivariate regression to correlate proxies such as assets and household characteristics with poverty and income
+* [ ] 
 
 
 <!-- Contributing -->
@@ -306,7 +308,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 <!-- Code of Conduct -->
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/JohnTan38/Project-Income-Qualification/blob/add-code-of-conduct-1/CODE_OF_CONDUCT.md)
 
 <!-- FAQ -->
 ## :grey_question: FAQ
@@ -329,7 +331,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
-Email ✉️(https://twitter.com/twitter_handle) - vieming@gmail.com
+Email ✉️ - vieming@gmail.com
 
 Project Link 🌐 [https://github.com/JohnTan38/project-income-qualification.git](https://github.com/JohnTan38/project-income-qualification.git)
 
